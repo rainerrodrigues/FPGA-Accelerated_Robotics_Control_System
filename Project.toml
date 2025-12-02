@@ -4,6 +4,7 @@ authors = ["Rainer Rodrigues"]
 [deps]
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 MechanismGeometries = "931e9471-e8fb-5385-a477-07ad12718aca"
 MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
