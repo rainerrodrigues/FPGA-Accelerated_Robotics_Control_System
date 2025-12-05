@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rsk_spawn</name>
+  <version>0.0.0</version>
+  <description>Spawn URDF in Gazebo</description>
+  <maintainer email="you@example.com">You</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>gazebo_ros</depend>
+  <depend>ament_cmake</depend>
+</package>
